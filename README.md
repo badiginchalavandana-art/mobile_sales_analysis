@@ -1,4 +1,5 @@
 # mobile_sales_analysis
+![Sales Dashboard](sales-dashboard-powerbi.png)
 # 📊 Sales Dashboard (Power BI)
 
 ## Overview
